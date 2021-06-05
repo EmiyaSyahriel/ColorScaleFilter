@@ -1,7 +1,4 @@
-﻿// ColorScaleFilter.cpp : Defines the entry point for the application.
-//
-
-#include "ColorScaleFilter.h"
+﻿#include "ColorScaleFilter.h"
 #include "Macros.h"
 
 PSW::ColorScale::ColorScale(PClip _child, int omin, int omax, int nmin, int nmax, IScriptEnvironment* env)

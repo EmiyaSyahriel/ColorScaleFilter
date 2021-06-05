@@ -1,7 +1,4 @@
-﻿// ColorScaleFilter.h : Include file for standard system include files,
-// or project specific include files.
-
-#pragma once
+﻿#pragma once
 #include <windows.h>
 #include <avisynth.h>
 
@@ -36,4 +33,3 @@ extern "C" __declspec(dllexport) const char* __stdcall AvisynthPluginInit3(
 	env->AddFunction("PSWColorScaler", "c[old_min]i[old_max]i[new_min]i[new_max]i", Create_SimpleSample, 0);
 	return "PSW ColorScaler plugin";
 }
-// TODO: Reference additional headers your program requires here.
