@@ -1,0 +1,5 @@
+K:/Works/net/ColorScaleFilter/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+K:/Works/net/ColorScaleFilter/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+K:/Works/net/ColorScaleFilter/out/build/x64-Debug (default)/ColorScaleFilter/CMakeFiles/ColorScaleFilter.dir
+K:/Works/net/ColorScaleFilter/out/build/x64-Debug (default)/ColorScaleFilter/CMakeFiles/edit_cache.dir
+K:/Works/net/ColorScaleFilter/out/build/x64-Debug (default)/ColorScaleFilter/CMakeFiles/rebuild_cache.dir
