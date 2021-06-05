@@ -29,6 +29,7 @@ bld/
 [Oo]ut/*
 [Oo]ut/
 [Oo]ut/build/
+/[Oo]ut/build/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
